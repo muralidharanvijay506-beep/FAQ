@@ -1,0 +1,14 @@
+AQI FAQ
+INPUT
+-----
+POST /api/ask
+
+{
+  "question": "What is AI?"
+}
+
+OUTPUT
+------
+{
+  "answer": "Artificial Intelligence (AI) is..."
+}
